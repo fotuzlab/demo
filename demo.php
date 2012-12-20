@@ -9,3 +9,6 @@
 // This print is useless
 // here only for demo purpose.
 print "Hello world!";
+
+// Adding one more line.
+print 'New line';
