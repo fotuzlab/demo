@@ -12,3 +12,6 @@ print "Hello world!";
 
 // Adding one more line.
 print 'New line';
+
+// Added a comment
+
