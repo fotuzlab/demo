@@ -1,0 +1,7 @@
+assets:
+steps:
+  - name: Print Hello world
+    plugin: Script
+    script: |
+      echo "Hello world"
+      echo "Test" > index.html
