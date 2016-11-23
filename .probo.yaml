@@ -1,0 +1,6 @@
+assets:
+steps:
+  - name: Print Hello world
+    plugin: Script
+    script: |
+      echo "Hello world"
